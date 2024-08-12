@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=FhJkCJJiwpg&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3
 
 **This Project shows my experience so far with Active Directory and Group Policies within a Domain Environment**
 
-PART 5 of my Active Directory Video Projects!!
+[PART 5 of my Active Directory Video Projects!!](https://github.com/MartindIT/AD-pt.5)
 
 
 
